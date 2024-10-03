@@ -21,6 +21,9 @@ Lets step up some of our basic feature files for Specflow which uses the Gherkin
 
 Login.feature
 
+** NOTE - Sometimes Net 8.0 will give you all steps are already defined when they actually aren't , to resolve this change the Target framework to 6.0 or 7 and then revert back 
+
+---- EXAMPLE -----
 Feature: Login
 
 Check login 
@@ -31,4 +34,8 @@ Scenario: User provides Valid login details
 	When The user provides a username
 	When The user provides a password
 	Then The user is logged in
+
+
+ Next Rebuild and the feature file text should turn purple and no longer back 
+ Right click Define step and copy to Clipboard -> Create a C# Class and call it web steps and paste our steps and change it to a public class
 
