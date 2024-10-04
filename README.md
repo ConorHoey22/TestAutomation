@@ -39,11 +39,14 @@ Scenario: User provides Valid login details
 	Then The user is logged in
 
 
- Next Rebuild and the feature file text should turn purple and no longer back 
-  Right click Define step and copy to Clipboard -> Create a C# Class and call it Websteps and paste our steps and change it to a public class
+Next Rebuild and the feature file text should turn purple and no longer back 
 
-  Within your websteps -> Create a public Webstep function and define WebDriverManager and IWebdriver 
-  ![image](https://github.com/user-attachments/assets/978b928a-6cf4-4524-90f6-6eff0c54f931)
+Right click Define step and copy to Clipboard -> Create a C# Class and call it Websteps and paste our steps and change it to a public class
+
+Within your websteps -> Create a public Webstep function and define WebDriverManager and IWebdriver 
+
+![image](https://github.com/user-attachments/assets/15c327fa-d85d-486e-8804-c1cded62fe0c)
+
 
   
 
