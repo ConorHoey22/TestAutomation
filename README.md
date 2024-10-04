@@ -48,6 +48,12 @@ Within your websteps -> Create a public Webstep function and define WebDriverMan
 ![image](https://github.com/user-attachments/assets/15c327fa-d85d-486e-8804-c1cded62fe0c)
 
 
+Next using Selenium, can we navigate to the login page and enter the username+password and click the login button 
+![image](https://github.com/user-attachments/assets/c1bbeb21-1e8e-4097-91f0-2959202d6267)
+
+
+
+
   
 
 
