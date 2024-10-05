@@ -52,6 +52,13 @@ Next using Selenium, can we navigate to the login page and enter the username+pa
 ![image](https://github.com/user-attachments/assets/c1bbeb21-1e8e-4097-91f0-2959202d6267)
 
 
+------
+
+Create a Configuration json file
+
+Install Nuget Package 
+Microsoft.Extensions.Configuration
+
 
 
   
