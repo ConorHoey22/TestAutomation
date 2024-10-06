@@ -56,13 +56,18 @@ Next using Selenium, can we navigate to the login page and enter the username+pa
 
 Create a Configuration json file
 
-Install Nuget Package 
+Install Nuget Packages
 Microsoft.Extensions.Configuration
+Microsoft.Extensions.Configuration.Json
+Microsoft.Extensions.Configuration.EnvironmentalVariables
 
 Here you can create a json file to hold Username/Password or any other details for configuration
 
 
-----
+---- Create a Runner File --- -
+You can create a Runner file and use the function BeforeTestRun to create your configuration
+![image](https://github.com/user-attachments/assets/d0451a69-333d-40da-a966-707b7b91ca2a)
+
 
 
   
