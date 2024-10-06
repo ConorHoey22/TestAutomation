@@ -70,8 +70,12 @@ You can create a Runner file and use the function BeforeTestRun to create your c
 
 
 ------  Hooks ---- 
-Can be used to perform at different times 
+
+Can be used to perform at different times within our Runner class 
 ![image](https://github.com/user-attachments/assets/364ec088-bed7-4c29-8a89-12d2a5119f6c)
+
+Or when can use Hooks in our WebSteps 
+![image](https://github.com/user-attachments/assets/81d563ce-4524-4eb7-915a-3b4bdfb18847)
 
 
 
