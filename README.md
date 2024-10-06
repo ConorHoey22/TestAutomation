@@ -69,7 +69,9 @@ You can create a Runner file and use the function BeforeTestRun to create your c
 ![image](https://github.com/user-attachments/assets/d0451a69-333d-40da-a966-707b7b91ca2a)
 
 
+------  Hooks ---- 
+Can be used to perform at different times 
+![image](https://github.com/user-attachments/assets/364ec088-bed7-4c29-8a89-12d2a5119f6c)
 
-  
 
 
