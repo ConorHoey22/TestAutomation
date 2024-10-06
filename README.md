@@ -59,6 +59,10 @@ Create a Configuration json file
 Install Nuget Package 
 Microsoft.Extensions.Configuration
 
+Here you can create a json file to hold Username/Password or any other details for configuration
+
+
+----
 
 
   
