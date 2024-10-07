@@ -78,4 +78,14 @@ Or when can use Hooks in our WebSteps
 ![image](https://github.com/user-attachments/assets/81d563ce-4524-4eb7-915a-3b4bdfb18847)
 
 
+--- Exernal Assemblies 
+
+This will allow you to call other projects / user there Websteps
+
+Create a new Project-> install nuget packages -> delete thoses that you dont need as you will be using another projects 
+go to Add -> Project Reference and check the project you want to reference
+create a specflow.json file and add your stepAssemblie or multiple if you need to 
+
+![image](https://github.com/user-attachments/assets/e1c94eb7-ff29-4f87-a63c-eeb7d417ea6c)
+
 
