@@ -88,7 +88,7 @@ create a specflow.json file and add your stepAssemblie or multiple if you need t
 
 ![image](https://github.com/user-attachments/assets/e1c94eb7-ff29-4f87-a63c-eeb7d417ea6c)
 
------ Parallel Execution  ----
+----- Parallel Execution (Run two browsers at the same time)   ----
 
 Ablity to run multiple feature files 
 
