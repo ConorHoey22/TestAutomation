@@ -88,4 +88,17 @@ create a specflow.json file and add your stepAssemblie or multiple if you need t
 
 ![image](https://github.com/user-attachments/assets/e1c94eb7-ff29-4f87-a63c-eeb7d417ea6c)
 
+----- Parallel Execution  ----
+
+Ablity to run multiple feature files 
+
+Add new Item to the project -> Assembly infomation file -> add assembly info as seen below
+![image](https://github.com/user-attachments/assets/dd6c74f5-4235-410b-85e7-a80d54719455)
+
+
+NUnit
+
+-------
+
+
 
