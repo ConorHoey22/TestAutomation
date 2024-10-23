@@ -113,16 +113,11 @@ Next you can then call instance "UserCheckoutInfo class" to retrive the variable
 Another way to obtain data from the Table Rows is by using a foreach to iterate through the array 
 ![image](https://github.com/user-attachments/assets/64eef9fe-a296-48be-9113-9f218df36dc2)
 
+// There is also ways to Create/compare tables and its sets by using .CompareToSet 
 
------
-
-
-
+------------------------------------------------------------------------------------
 
 
-
-
---------------------------------------
 
 
 
