@@ -101,13 +101,13 @@ Add new Item to the project -> Assembly infomation file -> add assembly info as 
 Add a data table to your feature file 
 ![image](https://github.com/user-attachments/assets/66fee4eb-80dd-45ef-b49d-6a7172eb2346)
 
-Check your UserCheckoutInfo Class which contains your set and gets 
+Create an instance class called UserCheckoutInfo  which contains your set and gets 
 ![image](https://github.com/user-attachments/assets/3aa4b487-710c-4dfe-abb0-f2654e81aa72)
 
 Once you have defined your Websteps , you can see that our When function has a Table parameter 
 ![image](https://github.com/user-attachments/assets/0bcd9df5-f4ce-4872-bf17-4c5d90dbcb41)
 
-Next you can then call UserCheckoutInfo class to retrive the variables
+Next you can then call instance "UserCheckoutInfo class" to retrive the variables
 ![image](https://github.com/user-attachments/assets/64eef48f-c0a1-41c2-8395-52d94d018f9d)
 
 Another way to obtain data from the Table Rows is by using a foreach to iterate through the array 
